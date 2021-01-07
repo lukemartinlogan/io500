@@ -12,5 +12,5 @@ IO500 dataset in CSV and Excel formats.
 * The views folder contains subsets of the cleaned IO500 dataset used by
 analysis.py  
 * The stats folder contains the output of analysis.py  
-* analysis.py is used to get statistics about different views of the
-IO500 dataset.
+* preprocess.py is used to clean the IO500 dataset   
+* analysis.py is used to get statistics about different views of the IO500 dataset.  
